@@ -14,7 +14,7 @@ function App() {
 	};
 
 	return (
-		<div className="App d-flex flex-column justify-content-between">
+		<div class="App d-flex flex-column justify-content-between">
 			<Quotes quote={quote} colors={colors} />
 			<button onClick={handleClick}>
 				<i class="fa-solid fa-shuffle"></i>
