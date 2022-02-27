@@ -1,0 +1,58 @@
+[
+	{
+		"backgr": "linear-gradient(65deg, #020024 0%, #0909a9 35%, #00d4ff 100%)",
+		"color": "#0909a9"
+	},
+	{
+		"backgr": "linear-gradient(-45deg, #22c1c3, #fdbb2d)",
+		"color": "#fdbb2d"
+	},
+	{
+		"backgr": "linear-gradient(25deg, #3f5efb, #fc466b)",
+		"color": "#fc466b"
+	},
+	{
+		"backgr": "linear-gradient(90deg, #833ab4 0%, #fd1d1d 50%, #fcb045 100%)",
+		"color": "#fd1d1d"
+	},
+	{
+		"backgr": "linear-gradient(135deg, #f4aed7, #94bbe9)",
+		"color": "#f4aed7"
+	},
+	{
+		"backgr": "linear-gradient(143deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%)",
+		"color": "#c850c0"
+	},
+	{
+		"backgr": "linear-gradient(40deg, #8f32d7, #588753)",
+		"color": "#588753"
+	},
+	{
+		"backgr": "linear-gradient(105deg, #67a8f1, #ebf16b)",
+		"color": "#67a8f1"
+	},
+	{
+		"backgr": "linear-gradient(45deg, #50b510, #047E6c)",
+		"color": "#047E6c"
+	},
+	{
+		"backgr": "linear-gradient(43deg, #4158d0 0%, #c850c0 46%, #ffcc70 100%)",
+		"color": "#c850c0"
+	},
+	{
+		"backgr": "linear-gradient(104deg, #ffffff 0%, #6284ff 50%, #ff0000 100%)",
+		"color": "#6284ff"
+	},
+	{
+		"backgr": "linear-gradient(45deg, #000066 0%, #270075 40%, #590089 100%)",
+		"color": "#270075"
+	},
+	{
+		"backgr": "linear-gradient(45deg, #7b00c6 0%, #a80075 44%, #d80048 100%)",
+		"color": "#a80075"
+	},
+	{
+		"backgr": "linear-gradient(45deg, #cc000a 0%, #db3a00 28%, #ef8f00 68%, #ffe900 100%)",
+		"color": "#db3a00"
+	}
+]
